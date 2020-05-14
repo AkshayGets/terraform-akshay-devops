@@ -1,5 +1,5 @@
 provider "azurerm" {
-  version = "2.8.0"
+  version = "2.4.0"
   features {}
 }
 resource "azurerm_resource_group" "RG-Terraform" {
